@@ -168,8 +168,6 @@ Through this project, the following skills were strengthened:
 
 **Anchu D**
 
-Data Analytics Final Project
-
 ---
 
 ## Conclusion
